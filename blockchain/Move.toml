@@ -1,0 +1,11 @@
+[package]
+name = "dlock"
+version = "1.0.0"
+
+[addresses]
+dlock = "0x66ef268bf620b86702dca9ac4b2fbc53ca5c8db7fc7dd7a6eef80e7549e35dfd"
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"

@@ -1,0 +1,8 @@
+flask
+cryptography
+aptos-sdk
+requests
+Flask-Cors
+Flask-SQLAlchemy
+gunicorn
+python-dotenv
